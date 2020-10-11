@@ -1,1 +1,1 @@
-function jarredFunction () { }
+function jarredFunction () {  }
